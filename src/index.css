@@ -108,3 +108,16 @@
 .create button:hover {
 	box-shadow: 4px 4px 4px rgba(0,0,0,0.3);
 }
+.not-found h2{
+	color: rgb(69, 187, 167);
+	margin-bottom: 10px;
+}
+.not-found p
+{
+	font-size: 35px;
+	font-weight: 500;
+	margin-bottom: 10px;
+}
+.not-found .l{
+	text-decoration: none;
+}
